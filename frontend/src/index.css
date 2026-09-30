@@ -1,0 +1,13 @@
+:root {
+    --bg: #fff;
+}
+
+#root {
+    margin: 0 auto;
+    min-height: 100svh;
+    display: flex;
+}
+
+body {
+    margin: 0;
+}
